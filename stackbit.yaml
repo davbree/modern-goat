@@ -17,8 +17,8 @@ models:
     label: Site Configuration
     fields:
       - type: string
-        name: title
-        label: Title
+        name: titleaaaa
+        label: Titleaaaa
         description: Site title
         required: true
       - type: string
