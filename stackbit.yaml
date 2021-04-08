@@ -31,7 +31,7 @@ models:
         hidden: true
       - type: string
         name: domain
-        label: Domain
+        label: Domaina
         description: >-
           The domain of your site, including the protocol, e.g.
           https://mysite.com
